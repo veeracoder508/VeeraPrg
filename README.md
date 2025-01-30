@@ -14,3 +14,5 @@ There are keywords to do arithmetic operations only. there are:
 The limit of value is 20 digits including a decimal point and with a plus or minus symbol. 
 ## storage 
 There are 4 arrays for storing data and the limit will be asked to you. The arrays are prg(), prg1(), prg2() and prgo(). The given table will show you the format.
+
+| | prg()|prg1()|prg2()|prgo()|
