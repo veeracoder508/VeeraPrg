@@ -1,7 +1,6 @@
 # VeeraPrg V¹
 ## introduction 
-__VeeraPrg(Vp)__ is a simple programming language 
-| Header 1 | Header 2 | Header 3 |
-|---|---|---|
-| Row 1, Cell 1 | Row 1, Cell 2 | Row 1, Cell 3 |
-| Row 2, Cell 1 | Row 2, Cell 2 | Row 2, Cell 3 |
+__VeeraPrg(Vp)__ is a simple programming language created by Veeraragavan.R.A which is running on Qbasic. There are different **syntax,memory,keywords,ect**. Each version has different keywords and different amount of keywords. In future it will run using **python**.
+
+## keywords 
+There are 
