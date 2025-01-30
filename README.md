@@ -9,4 +9,4 @@ There are keywords to do arithmetic operations only. there are:
   - **DIV : for division**
 ### syntax 
 |**command,value1,value2**|
-|____| 
+|---|
