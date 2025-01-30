@@ -52,4 +52,5 @@ Where,
 
 ## source code
   [code](https://github.com/veeracoder508/VeeraPrg/blob/main/VeeraPrb.bas)
-[simulator]
+  
+[simulator](https://github.com/veeracoder508/VeeraPrg/blob/main/VEERAPRG_F.xlsx)
