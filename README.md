@@ -17,3 +17,8 @@ There are 4 arrays for storing data and the limit will be asked to you. The arra
 
 | | prg()|prg1()|prg2()|prgo()|
 |---|---|---|---|---|
+|0|/command/|/value1/|/value2/|/ans/|
+|1|/command/|/value1/|/value2/|/ans/|
+|2|/command/|/value1/|/value2/|/ans/|
+|:|:|:|:|:|
+|n|/command/|/value1/|/value2/|/ans/|
