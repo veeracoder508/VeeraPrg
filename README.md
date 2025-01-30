@@ -24,8 +24,8 @@ There are 4 arrays for storing data and the limit will be asked to you. The arra
 |n|/command/|/value1/|/value2/|/ans/|
 
 Where,
-  /command/ : keywords 
-  /value1/ : values 
-  /value2/ : values 
-  /ans/ : output 
+  - /command/ : keywords 
+  - /value1/ : values 
+  - /value2/ : values 
+  - /ans/ : output 
 
