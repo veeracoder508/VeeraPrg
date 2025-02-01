@@ -32,23 +32,31 @@ Where,
 ## keywords 
   1) **ADD**
     This commandis used to add two numbers.
+
       eg) ADD,1,5
+     
       o/p) 6
-  2) **SUB**
+  3) **SUB**
      This commandis used to subtract two numbers.
+
       eg) SUB,6,5
+     
       o/p) 1
-  3) **MUL**
+  5) **MUL**
      This commandis used to multiply two numbers.
+
       eg) MUL,1,5
+     
       o/p) 5
-  4) **DIV**
+  7) **DIV**
      This commandis used to divide two numbers.
-      eg) ADD,10,5
+
+     eg) ADD,10,5
+     
       o/p) 2
      
 ## error messages
-**there are no error messages**
+*there are no error messages*
 
 ## source code
   [code](https://github.com/veeracoder508/VeeraPrg/blob/main/VeeraPrb.bas)
